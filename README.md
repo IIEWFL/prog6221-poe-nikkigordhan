@@ -24,5 +24,7 @@ https://github.com/IIEWFL/prog6221-poe-nikkigordhan/blob/main/PROG6221_PoE_Part3
 	
 <h4> Changes made from Part 2: </h4>
 <p>The changes I made from Part 2 for Part 3 is explained below:</br>
-I created a more user friendly application.
-	
+I created a more user friendly application.</br>
+
+ <p>The video could not be attached here as it was too big, I have attached it to my VC learn Submission</p>
+ 
