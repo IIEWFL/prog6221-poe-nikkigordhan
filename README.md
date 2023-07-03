@@ -20,7 +20,7 @@
 Step 2: Click on th file that ends with csproj. </br>
 Step 3: Use Visual Studio IDE to open up the project file. </br>
 The link is below: </br>
-</p>
+https://github.com/IIEWFL/prog6221-poe-nikkigordhan/blob/main/PROG6221_PoE_Part3.csproj </p>
 	
 <h5> For a regular user: </h5>
 Step 1: Open up the release file. </br>
